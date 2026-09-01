@@ -191,10 +191,10 @@ STAT-CAL/
 
 Detailed project documentation is available in the [`documentation`](documentation/) directory.
 
-* [Features](documentation/features.md)
-* [Methodology](documentation/methodology.md)
-* [Project Overview](documentation/project-overview.md)
-* [Roadmap](documentation/roadmap.md)
+* [Features](https://github.com/thimashivitharana00-ux/STAT-CAL/blob/main/documentation/features)
+* [Methodology](https://github.com/thimashivitharana00-ux/STAT-CAL/blob/main/documentation/methodology)
+* [Project Overview](https://github.com/thimashivitharana00-ux/STAT-CAL/blob/main/documentation/project-overview)
+* [Roadmap](https://github.com/thimashivitharana00-ux/STAT-CAL/blob/main/documentation/roadmap)
 
 ---
 
