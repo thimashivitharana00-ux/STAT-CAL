@@ -1,0 +1,121 @@
+# STAT CAL — Features
+
+## 1. Data Upload
+
+STAT CAL begins with dataset ingestion.
+
+Users can provide a dataset for analysis and proceed through the application's analytical workflow.
+
+### Supported Data
+
+* CSV
+* Excel
+
+---
+
+## 2. Data Quality & Preparation
+
+Before statistical analysis, data quality and structure are important.
+
+STAT CAL provides automated preparation functionality intended to make datasets more suitable for analysis.
+
+### Data Preparation Functions
+
+* Missing-data handling
+* Column-name standardisation
+* Text cleaning
+* Numeric conversion
+* Date standardisation
+* Outlier handling
+* Data-quality inspection
+
+---
+
+## 3. Exploratory Data Analysis
+
+Exploratory analysis provides an initial understanding of the dataset before formal statistical modelling.
+
+STAT CAL provides tools for examining:
+
+* Dataset structure
+* Variable distributions
+* Descriptive statistics
+* Relationships between variables
+* Visual patterns
+
+---
+
+## 4. Group Comparison
+
+STAT CAL provides functionality for comparing groups within a dataset.
+
+The appropriate statistical procedure should depend on the characteristics of the variables, number of groups, distributional assumptions, and analytical objective.
+
+---
+
+## 5. Regression Analysis
+
+STAT CAL includes three regression approaches:
+
+### Simple Linear Regression
+
+Used to examine the relationship between a response variable and a single explanatory variable.
+
+### Multiple Linear Regression
+
+Used to model a response variable using multiple explanatory variables.
+
+### Logistic Regression
+
+Used when the response variable represents a binary outcome.
+
+---
+
+## 6. Forecasting
+
+The forecasting module is intended for datasets containing a time-dependent component.
+
+It can be used to analyse historical patterns and generate future estimates using the forecasting methods implemented in the application.
+
+---
+
+## 7. Statistical Process Control
+
+The SPC module is designed for monitoring process behaviour statistically.
+
+It can assist with:
+
+* Process monitoring
+* Control-chart analysis
+* Identification of unusual variation
+* Assessment of process stability
+
+---
+
+## 8. Visualisation
+
+Visual outputs are used throughout STAT CAL to make statistical results easier to interpret.
+
+The exact visualisations depend on the selected analytical workflow and dataset.
+
+---
+
+## 9. Analytical Philosophy
+
+STAT CAL follows a structured analytical process:
+
+```text
+Data
+ ↓
+Quality
+ ↓
+Exploration
+ ↓
+Method Selection
+ ↓
+Analysis
+ ↓
+Interpretation
+```
+
+The objective is not simply to produce statistical output, but to provide a coherent workflow from raw data to interpretable results.
