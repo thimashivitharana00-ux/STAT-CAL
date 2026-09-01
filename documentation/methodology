@@ -1,0 +1,100 @@
+# STAT CAL — Methodology
+
+## Introduction
+
+STAT CAL is designed around a structured statistical analysis workflow.
+
+The analytical process begins with understanding the dataset, continues through data preparation and exploratory analysis, and proceeds to statistical modelling or process analysis according to the analytical objective.
+
+---
+
+## 1. Data Preparation
+
+Data preparation is performed before statistical analysis to improve data consistency and reduce avoidable analytical errors.
+
+Typical preparation activities include:
+
+* Missing-value assessment
+* Variable-type identification
+* Data-format standardisation
+* Text cleaning
+* Numeric conversion
+* Date handling
+* Outlier assessment
+
+Data preparation decisions should be evaluated in the context of the dataset and the intended analysis.
+
+---
+
+## 2. Exploratory Data Analysis
+
+Exploratory Data Analysis is used to understand the structure and characteristics of the dataset before formal modelling.
+
+Key objectives include:
+
+* Understanding variable distributions
+* Identifying unusual observations
+* Examining relationships between variables
+* Detecting potential data-quality issues
+* Supporting selection of appropriate analytical methods
+
+---
+
+## 3. Regression Analysis
+
+### Simple Linear Regression
+
+Simple Linear Regression models the relationship between one explanatory variable and a continuous response variable.
+
+The analysis can be used to estimate the direction and magnitude of the relationship and assess model fit.
+
+### Multiple Linear Regression
+
+Multiple Linear Regression extends the model to multiple explanatory variables.
+
+It allows the contribution of several predictors to be assessed simultaneously while controlling for the presence of the other included predictors.
+
+### Logistic Regression
+
+Logistic Regression is appropriate for modelling a binary response.
+
+The model estimates the relationship between explanatory variables and the probability of an outcome.
+
+---
+
+## 4. Forecasting
+
+Forecasting analyses observations indexed by time.
+
+The objective is to identify temporal patterns within historical data and use the implemented forecasting methodology to estimate future observations.
+
+Forecasting results should be evaluated using appropriate accuracy measures and consideration of the characteristics of the underlying time series.
+
+---
+
+## 5. Statistical Process Control
+
+Statistical Process Control is used to distinguish common-cause process variation from signals that may indicate unusual process behaviour.
+
+Control charts provide a graphical framework for monitoring process performance over time.
+
+The specific control-chart method should be selected according to the type and structure of the process data.
+
+---
+
+## 6. Statistical Interpretation
+
+STAT CAL is intended to support statistical reasoning rather than simply generate numerical output.
+
+Results should be interpreted in relation to:
+
+* The research or business question
+* Dataset characteristics
+* Statistical assumptions
+* Model diagnostics
+* Uncertainty
+* Practical significance
+
+Automated analysis should therefore be treated as analytical assistance rather than a replacement for statistical judgement.
+
+
