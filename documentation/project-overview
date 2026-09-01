@@ -1,0 +1,74 @@
+# STAT CAL — Project Overview
+
+## Background
+
+Statistical analysis often requires users to combine multiple tools, understand different analytical procedures, prepare datasets manually, and interpret statistical output.
+
+STAT CAL was developed as an attempt to bring several common statistical workflows into a unified analytical environment.
+
+---
+
+## Objective
+
+The primary objective of STAT CAL is to provide an accessible statistical analytics platform that guides users from dataset preparation through statistical analysis and interpretation.
+
+---
+
+## Core Analytical Areas
+
+The platform focuses on:
+
+1. Data preparation
+2. Exploratory data analysis
+3. Group comparison
+4. Regression analysis
+5. Forecasting
+6. Statistical Process Control
+
+---
+
+## Development Focus
+
+STAT CAL combines knowledge from several areas:
+
+### Statistics
+
+Application of statistical methods to real-world datasets.
+
+### Data Analysis
+
+Data preparation, exploration, modelling, and interpretation.
+
+### Software Development
+
+Designing an interactive application around analytical workflows.
+
+### Data Visualisation
+
+Presenting analytical results in a form that users can understand.
+
+---
+
+## Intended Users
+
+The platform is intended to support users who need to perform statistical analysis but may not want to construct every analytical workflow manually.
+
+Potential users include:
+
+* Students
+* Researchers
+* Analysts
+* Quality professionals
+* Data-oriented professionals
+
+---
+
+## Project Status
+
+STAT CAL is an active development project.
+
+The current application is available through the live deployment:
+
+https://stat-cal.vercel.app/
+
+Future development will focus on expanding statistical functionality, improving analytical guidance, strengthening reporting capabilities, and improving the overall user experience.
