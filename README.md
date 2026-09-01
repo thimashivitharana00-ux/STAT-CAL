@@ -189,7 +189,7 @@ STAT-CAL/
 
 ## Documentation
 
-Detailed project documentation is available in the [`documentation`](documentation/) directory.
+Detailed project documentation is available in the [`documentation`](https://github.com/thimashivitharana00-ux/STAT-CAL/tree/main/documentation) directory.
 
 * [Features](https://github.com/thimashivitharana00-ux/STAT-CAL/blob/main/documentation/features)
 * [Methodology](https://github.com/thimashivitharana00-ux/STAT-CAL/blob/main/documentation/methodology)
