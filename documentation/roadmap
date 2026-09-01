@@ -1,0 +1,50 @@
+# STAT CAL — Roadmap
+
+## Phase 1 — Core Platform
+
+* [x] Application interface
+* [x] Dataset upload
+* [x] Data preparation
+* [x] Exploratory analysis
+* [x] Regression analysis
+* [x] Forecasting
+* [x] SPC functionality
+
+## Phase 2 — Statistical Expansion
+
+* [ ] Additional hypothesis tests
+* [ ] Expanded group-comparison methods
+* [ ] Additional regression models
+* [ ] Additional forecasting methods
+* [ ] Expanded SPC methods
+* [ ] More statistical diagnostics
+
+## Phase 3 — Reporting
+
+* [ ] Automated statistical reports
+* [ ] PDF report generation
+* [ ] Exportable tables
+* [ ] Exportable visualisations
+* [ ] Reproducible analysis summaries
+
+## Phase 4 — User Experience
+
+* [ ] Improved analytical guidance
+* [ ] Improved error handling
+* [ ] Enhanced visualisation
+* [ ] Improved accessibility
+* [ ] Interactive statistical explanations
+
+## Phase 5 — Platform Development
+
+* [ ] User accounts
+* [ ] Saved analyses
+* [ ] Cloud-based projects
+* [ ] Dataset management
+* [ ] Advanced analytics
+
+---
+
+### Long-Term Vision
+
+The long-term objective is to develop STAT CAL into a comprehensive statistical analytics platform capable of supporting users throughout the complete data-analysis lifecycle.
