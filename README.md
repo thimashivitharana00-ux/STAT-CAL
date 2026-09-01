@@ -257,8 +257,7 @@ The project combines:
 
 **Thimashi Vitharana**
 
-BSc in Science
-University of Peradeniya, Sri Lanka
+BSc University of Peradeniya, Sri Lanka
 
 ---
 
